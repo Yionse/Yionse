@@ -5,9 +5,9 @@
 </div>  
   
 
-### <div align="center">一名前端工程师</div>  
-- 🔭 I’m currently working on Fuzhou
-- 🌱 I’m currently learning Web
+### <div align="center">一名前端工程师/Nodejs开发</div>  
+- 🔭 I’m currently working on Shanghai
+- 🌱 I’m currently learning Web and Nodejs
 - 🌐 <a href='https://zhangtc.online'>个人博客</a>
 
 <br/>  
